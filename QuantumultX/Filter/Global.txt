@@ -386,7 +386,6 @@ host-suffix, zb.com, Global
 host-suffix, zello.com, Global
 host-suffix, zeronet.io, Global
 host-suffix, zoom.us, Global
-host-keyword, github, Global
 host-keyword, jav, Global
 host-keyword, pinterest, Global
 host-keyword, porn, Global
